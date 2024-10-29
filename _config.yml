@@ -99,7 +99,11 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
+        title: "克兰西茶馆",
+        href: "https://www.ygyn.site"
+    },
+    {
+        title: "Jimmy's Blog",
+        href: "leezhuuuuu's blog"
     }
 ]
