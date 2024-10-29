@@ -100,10 +100,10 @@ service-worker: true
 friends: [
     {
         title: "克兰西茶馆",
-        href: "https://www.ygyn.site"
+        href: "https://www.ygyn.site/"
     },
     {
-        title: "Jimmy's Blog",
-        href: "leezhuuuuu's blog"
+        title: "leezhuuuuu's blog",
+        href: "https://leez.tech/"
     }
 ]
