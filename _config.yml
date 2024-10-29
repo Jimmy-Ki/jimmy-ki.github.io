@@ -6,7 +6,7 @@ email: jimmyki@qq.com
 description: "jimmyki的共享笔记"
 keyword: "jimmyki, note, jimmyki's note, 笔记, jimmyki的笔记"
 url: "https://blog.jimki.cn"          # your host, for absolute URL
-baseurl: "https://blog.jimki.cn"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Jimmy-Ki/jimmy-ki.github.io.git" # you code repository
 
 # Sidebar settings
